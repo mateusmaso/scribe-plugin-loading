@@ -1,2 +1,2 @@
-scribe-plugin-loading.js
-========================
+scribe-plugin-loading
+=====================
